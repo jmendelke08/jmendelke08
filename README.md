@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+## About me
+Hi, I'm Jason. I'm currently trying to learn new things. GitHub is one of those things. I would appreciate any insights and knowledge you can share!
+
 <!--
 **jmendelke08/jmendelke08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
