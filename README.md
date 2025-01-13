@@ -8,6 +8,11 @@ Hi, I'm Jason. I'm currently trying to learn new things. GitHub is one of those 
 |     2| CSS       |
 |     3| JAVASCRIPT|
 
+| Rank | Hobbies   |
+|-----:|-----------|
+|     1| HOCKEY    |
+|     2| TECHNO    |
+
 <!--
 **jmendelke08/jmendelke08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
